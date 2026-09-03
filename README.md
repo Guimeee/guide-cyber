@@ -14,13 +14,13 @@ Ce guide est un manuel de survie numérique pensé pour être compris par tous (
 
 ---
 
-## 1. 🏠 Introduction : La maison et la forteresse
+## 🏠 Introduction : La maison et la forteresse
 Tout le monde comprend qu'on ne laisse pas la porte d'entrée grande ouverte avec les clés sur la serrure, ni la fenêtre du salon entrouverte en partant en vacances. Pourtant, sur Internet, on fait l'équivalent tous les jours sans s'en rendre compte. 
 La cybersécurité fait souvent peur parce qu'on la résume à du code incompréhensible. Oublions le jargon. Ce guide pose **4 règles simples de bon sens** pour verrouiller sa vie numérique. Ce qu'on fait chez soi pour protéger ses photos de famille, c'est exactement ce qu'une entreprise ou une administration doit faire à grande échelle. La seule différence, c'est l'échelle, pas les principes.
 
 ---
 
-## 2. 📋 Étape 1 : Le grand inventaire de printemps (Savoir ce qu'on possède)
+## 📋 Étape 1 : Le grand inventaire de printemps (Savoir ce qu'on possède)
 > *La règle d'or : Impossible de protéger ce qu'on ignore posséder.*
 
 * **Le problème :** Au fil des ans, on accumule du matériel et des logiciels. Un vieux PC portable au fond du placard, une tablette qui ne sert plus, une application téléchargée pour une occasion précise. Chacun de ces éléments oublié est une porte d'entrée potentielle que personne ne surveille.
@@ -32,7 +32,7 @@ La cybersécurité fait souvent peur parce qu'on la résume à du code incompré
 
 ---
 
-## 🔑 3. Étape 2 : La fin de la clé sous le paillasson (Le *Passwordless*)
+## 🔑 Étape 2 : La fin de la clé sous le paillasson (Le *Passwordless*)
 > *La règle d'or : Les mots de passe, c'est comme les brosses à dents : on ne les prête pas, on en change, et avouons-le, les nôtres sont souvent beaucoup trop faibles.*
 
 * **Le problème :** Utiliser "Azerty123" ou le prénom de son chat partout, c'est donner le double de ses clés à tous les cambrioleurs du web. L'humain est nul pour retenir des suites de caractères complexes.
@@ -44,7 +44,7 @@ La cybersécurité fait souvent peur parce qu'on la résume à du code incompré
 
 ---
 
-## 🎣 4. Étape 3 : Le réflexe du douanier (Déjouer les pièges)
+## 🎣 Étape 3 : Le réflexe du douanier (Déjouer les pièges)
 > *La règle d'or : Face à un inconnu qui débarque en courant en criant au feu, on ne lui donne pas la caisse enregistreuse. On vérifie sa carte d'identité.*
 
 * **Le problème :** Le phishing (l'hameçonnage) utilise l'urgence pour vous court-circuiter le cerveau : *"Votre colis est bloqué"*, *"Votre compte va être clôturé"*. 
@@ -56,7 +56,7 @@ La cybersécurité fait souvent peur parce qu'on la résume à du code incompré
 
 ---
 
-## 💾 5. Étape 4 : Le double des clés chez les beaux-parents (La résilience)
+## 💾 Étape 4 : Le double des clés chez les beaux-parents (La résilience)
 > *La règle d'or : Si un virus bloque toutes les portes de la maison et prend vos souvenirs en otage, qu'est-ce qui se sauve ?*
 
 * **Le problème :** Les ransomwares chiffrent vos fichiers et exigent une rançon. Si votre ordinateur plante, tout est perdu... sauf si vous avez une copie.
