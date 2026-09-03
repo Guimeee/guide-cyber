@@ -26,8 +26,8 @@ La cybersécurité fait souvent peur parce qu'on la résume à du code incompré
 * **Le problème :** Au fil des ans, on accumule du matériel et des logiciels. Un vieux PC portable au fond du placard, une tablette qui ne sert plus, une application téléchargée pour une occasion précise. Chacun de ces éléments oublié est une porte d'entrée potentielle que personne ne surveille.
 * **Le cas concret :** C'est retrouver une vieille application météo ou un jeu sur sa tablette qu'on n'a pas ouvert depuis 3 ans, mais qui a toujours accès à votre localisation ou à vos photos.
 * **Ce qu'on fait concrètement :**
-  1. **Faire le tour de la maison :** Lister tous les appareils connectés à Internet (ordinateurs, smartphones, box, téléviseurs connectés).
-  2. **Faire le grand ménage :** Désinstaller toutes les applications et programmes inutilisés depuis 6 mois. Moins il y a de fenêtres ouvertes sur l'extérieur, moins on risque les courants d'air.
+  * **Faire le tour de la maison :** Lister tous les appareils connectés à Internet (ordinateurs, smartphones, box, téléviseurs connectés).
+  * **Faire le grand ménage :** Désinstaller toutes les applications et programmes inutilisés depuis 6 mois. Moins il y a de fenêtres ouvertes sur l'extérieur, moins on risque les courants d'air.
 * **L'œil du pro :** En entreprise, c'est ce qu'on appelle la *gestion des actifs* et la *réduction de la surface d'attaque*. Si l'informatique ne sait pas ce qui est branché sur le réseau, elle ne peut pas le mettre à jour.
 
 ---
